@@ -8,9 +8,9 @@ const quickLinks = [
 ];
 
 const socialLinks = [
-    {href: "#", label: "GitHub"},
-    {href: "#", label: "LinkedIn"},
-    {href: "#", label: "Instagram"},
+    {href: "https://github.com/inindah-ges", label: "GitHub"},
+    {href: "www.linkedin.com/in/indah-mudani-ramadhan-920255425", label: "LinkedIn"},
+    {href: "https://www.instagram.com/indah_.rmdhan/", label: "Instagram"},
 ];
 
 export default function Footer() {
